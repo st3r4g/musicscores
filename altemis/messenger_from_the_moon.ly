@@ -11,7 +11,9 @@
     <<
       \include "black_jail/drums.ly"
       \include "black_jail/bass.ly"
+      \include "black_jail/synth.ly"
       \include "black_jail/guitar.ly"
+      \include "black_jail/voice.ly"
     >>
     \layout { }
     \midi { }
